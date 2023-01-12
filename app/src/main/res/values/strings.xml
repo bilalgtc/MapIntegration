@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MapExample</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_maps2">MapsActivity2</string>
+    <string name="title_activity_get_address">Get_Address</string>
+    <string name="title_activity_custom_marker">CustomMarker</string>
+    <string name="title_activity_route">Route</string>
+</resources>
